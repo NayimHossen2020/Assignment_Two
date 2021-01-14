@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+ 
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1,h2,h3{
+    color: #363958;;
+}
+.top_section{
+    background-color: #faf4e4;
+}
+.logo{
+    width: 60%;
+}
+.header_section{
+    background-color: #faf4e4;
+}
+.top_section_text h1{
+    font-size: 60px;
+    font-weight: 600;
+    letter-spacing: 0;
+}
+.top_section_text span{
+    color: #FABE4C;
+}
+.top_section_text p{
+    font-weight: normal;
+    color: #616160;
+}
+.product_card img{
+    width: 250px;
+    height: 300px;
+}
+.product_card{
+    border: none;
+    border-radius: 5%;
+}
+.image_bg_radius{
+    border-radius: 10%;
+    border: none;
+}
+.card_title_text h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+.card_title_text p{
+    color: #616160;
+}
+.card_title_text h2{
+    color: #FABE4C;
+    font-weight: bold;
+    font-size: 35px;
+}
+.button_style{
+    width: 10em;
+    height: 4em;
+    background-color: #9FB73E;
+}
+.product_img{
+    width: 100%;
+}
+.product_img img{
+    width: 100%;
+}
+.info_section img{
+    width: 80px;
+}
+.contact_section{
+    background-color: #FAF4E4;
+}
